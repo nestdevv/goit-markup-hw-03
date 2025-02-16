@@ -195,7 +195,7 @@ h1 {
   padding: 120px 0 120px 0;
 }
 
-.section-two {
+.visually-hidden {
   overflow: hidden;
   display: none;
   font-weight: 500;
@@ -255,6 +255,10 @@ h1 {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
+}
+
+.portfilio-item {
   margin-bottom: 8px;
 }
 
