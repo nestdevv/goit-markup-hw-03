@@ -67,7 +67,7 @@ button {
   cursor: pointer;
   font-size: 16px;
   background: #4d5ae5;
-  min-width: 169px;
+ 
   height: 56px;
   border-radius: 4px;
   color: white;
@@ -75,6 +75,10 @@ button {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+}
+
+.order-button {
+ min-width: 169px;
 }
 
 .order-button:hover,
@@ -95,8 +99,7 @@ h1 {
   height: 600px;
   background-color: #2e2f42;
   letter-spacing: 0.02em;
-  padding-top: 188px;
-  padding-bottom: 188px;
+  padding: 188px 0;
 }
 
 .effective-solutions {
@@ -260,7 +263,7 @@ h1 {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  margin-bottom: 32px;
+  margin-bottom: 8px;
 }
 
 .container {
