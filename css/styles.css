@@ -133,6 +133,8 @@ h1 {
   color: #4d5ae5;
   line-height: 1.17;
   text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 16px;
   
 }
 
